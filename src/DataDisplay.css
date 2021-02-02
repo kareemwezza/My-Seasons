@@ -1,0 +1,19 @@
+.data-container {
+  height: 100vh;
+}
+.city h3 {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.temp-data {
+  margin: 10px;
+}
+
+.temp-data > div {
+  height: 200px;
+  border: black 1px solid;
+  border-radius: 5px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+}
